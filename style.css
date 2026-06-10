@@ -1,1 +1,33 @@
-
+body{
+  background: #D16FDEfd;
+  strong{
+    color: purple;
+  }
+  h1{
+    color; purple
+    text-align: center;
+    span{
+      border: 1px solid purple;
+      padding:10px;
+    }
+  }
+    p{
+      text-align: center;
+    }
+    img{
+      display: block;
+      width: 100%;
+      heigh: auto;
+      margin-left: auto;
+      magin-right: auto;
+    }
+    footer{
+      text-align; center;
+      strong{
+        color: purple;
+  }
+}
+      
+      
+     
+}
